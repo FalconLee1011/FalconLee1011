@@ -1,5 +1,8 @@
 ### Hi there 🐧 <img src="docs/assets/nyan-cat.gif" width=20%>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **FalconLee1011/FalconLee1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
