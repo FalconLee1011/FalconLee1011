@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 228 Contributions in the Year 2021
  > 
-> 📦 291.0 kB Used in Github's Storage 
+> 📦 291.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -82,7 +82,7 @@ Java                     2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/FalconLee1011/FalconLee1011/master/charts/bar_graph.png) 
 
 
- Last Updated on 21/09/2021
+ Last Updated on 22/09/2021
 <!--END_SECTION:waka-->
 
 <!--
