@@ -2,10 +2,10 @@
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falconlee1011"](https://github-readme-stats.vercel.app/api/top-langs/?username=falconlee1011&layout=compact&theme=github_dark /> -->
 ### The name is Yu-Chung (煜中), I'm someone who writes code.
-- Web, full-stack.
+<!-- - Senior software engineer at [Athena Information Systems](https://www.athena.com.tw/). -->
+- Web, frontend (mainly using Vue.js) and some backend(python flask).
 - Data Visualization.
 - Some IoT stuff, home automation, wearable device, remote control, etc.
-- Currently the CTO of [PhaseTech](https://www.phasetech.tw/), a company specializes in big data analysis, composition, and visualization, with a focus on developing low-cost marine solutions.
   
 ## Frontend
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
