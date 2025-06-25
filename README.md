@@ -3,7 +3,7 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falconlee1011"](https://github-readme-stats.vercel.app/api/top-langs/?username=falconlee1011&layout=compact&theme=github_dark /> -->
 ### Hi, my name is Andrew (Yu-Chung (煜中)) Lee, I'm...
 <!-- - Senior software engineer at [Athena Information Systems](https://www.athena.com.tw/). -->
-- IT Application Engineer at [MOXA Inc.](https://www.moxa.com/), formerly Senior Software Engineer at Athena and CTO at PhaseTech.
+- IT Application Engineer at [MOXA Inc.](https://www.moxa.com/), formerly Senior Software Engineer at Athena and Technical Lead / Founding Engineer at PhaseTech.
 - Specialized in frontend architecture, UI/UX design, and real-time data visualization.
 - Building cross-platform solutions using Vue/Nuxt, Electron, and Ionic.
 - Experienced with backend stacks (Flask, MongoDB), DevOps (Docker, AWS, GitLab CI), and embedded systems (Arduino, Raspberry Pi).
